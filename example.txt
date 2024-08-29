@@ -1,1 +1,3 @@
 Initial content of the file.
+This is a change made by a colleague.
+
