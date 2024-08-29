@@ -1,3 +1,7 @@
 Initial content of the file.
+<<<<<<< HEAD
 This is a change made by a colleague.
 
+=======
+This is a change made by me.
+>>>>>>> 6435933 (Add my change to example.txt)
